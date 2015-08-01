@@ -10,8 +10,8 @@ public class MainGameClass {
 		Scanner age = new Scanner(System.in);
 		String ForrestAnswer = new String ();
 							
-		System.out.println("Hello welcome to JONIK!");
-		System.out.println("This game was created by Ryan Kibby.");
+		System.out.println("");
+		System.out.println(".");
 		System.out.println("Thank you or playing! Press ENTER to continue!");
 		System.out.println("are you a boy or a girl?\n\nOptions: \n1:Boy\n2:Girl");
 		
